@@ -30,7 +30,7 @@ Nuestro objetivo principal es brindar a Greyhound información valiosa para la t
 
 ## JIRA
 Gracias al software Jira pudimos hacer un cronograma con las tareas que definimos llevar a cabo para ejecutar la propuesta y les asignamos roles de todos los colaboradores del equipo.
-IMAGEN DE JIRAAA
+
 
 # Desarrollo del Proyecto
 
